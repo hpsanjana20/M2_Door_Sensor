@@ -14,7 +14,6 @@
 |HLR_1|This project ensures detection of person entering the room|Implemented|
 |HLR_2|This project helps in switching on the light automatically when you enter the room|Implemented|
 |HLR_3|This project ensures turning on the bulb off there is enough daylight using manual switch|Implemented|
-|HLR_4|This project aims to cover most of the home appliances|Future|
 
     
 # Lowlevel Requirements
@@ -26,7 +25,7 @@
 
 
 # SWOT Analysis
-![](https://github.com/ITSMEUNICK-21/M2_AVR_based_Homespace_Automation_with_Daylight_Monitoring/blob/main/6_Output/Others/SWOT_Analysis_M2.jpg)
+![](https://github.com/hpsanjana20/M2_Door_Sensor/blob/main/6_Output/swot_analysis.png)
 
 # 4W's & 1H
 * **What**  : Door sensor using the microcontroller Atmega328p.
