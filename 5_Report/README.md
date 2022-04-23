@@ -44,3 +44,13 @@
 
 # SWOT Analysis
 ![](https://github.com/hpsanjana20/M2_Door_Sensor/blob/main/6_Output/swot_analysis.png)
+
+## Implementation
+    Instructions to RUN program :
+    
+        1. Clone my repository into your system.
+        2. You should go to 3_Implementation/ folder.
+        3. Run "make all" command in your terminal for execution of program.
+        
+## Author
+
