@@ -1,6 +1,16 @@
 # M2_Door_Sensor
 * Door sensor for automated lighting fixtures manage is extensively being advanced for power saving and protection purposes. An infrared door sensor primarily based totally on electric and electronics combinational circuit generation is used to broaden the automated mild switching device. The automated mild switching device will cause power saving and green power utilization which can advantage each individual.
 
+
+## Badges
+ 
+|Build|cppcheck|Codacy|
+|:--:|:--:|:--:|
+
+[![Compile -Linux](https://github.com/hpsanjana20/M2_Door_Sensor/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/hpsanjana20/M2_Door_Sensor/actions/workflows/c-cpp.yml)[![Cppcheck]
+(https://github.com/hpsanjana20/M2_Door_Sensor/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/hpsanjana20/M2_Door_Sensor/actions/workflows/CodeQuality.yml)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/fc904f9676ad4e4aa62e23f616cf3789)](https://www.codacy.com/gh/hpsanjana20/M2_Door_Sensor/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=hpsanjana20/M2_Door_Sensor&amp;utm_campaign=Badge_Grade)
+
+
 ## Folder Structure
 |Folder|Description|
 |:--:|:--:|
