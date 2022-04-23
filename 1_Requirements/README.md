@@ -30,7 +30,7 @@
 # 4W's & 1H
 * **What**  : Door sensor using the microcontroller Atmega328p.
 * **When**  : When there is a need to automatically on and off the light accpording to it's usage. 
-* **Where** : It can be incorporated in home, restroom and business spaces.
+* **Where** : It can be incorporated in garages, staircases, restroom and business spaces.
 * **Why**   : It is needed to control the energy conservation in order to save energy and reduce the utility cost.  
 * **How**   : By developing an embedded system using IR sensor with Atmega328p being the microcontroller.
 
