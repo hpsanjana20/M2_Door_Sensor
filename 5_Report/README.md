@@ -1,7 +1,22 @@
+# Project Report
+Door sensor for automated lighting fixtures manage is extensively being advanced for power saving and protection purposes. An infrared door sensor primarily based totally on electric and electronics combinational circuit generation is used to broaden the automated mild switching device. The automated mild switching device will cause power saving and green power utilization which can advantage each individual.
 
 # Features
 * The system is developed with safety enviroment when switching ‘ON’ or ‘OFF’ the light during the room occupancy or unoccupancy.
 * It also comprises manual switching in case user needs to have light during the day.
+
+## Identifying the Requirements
+      Technologies and Tools Used:
+      
+               * Development Tool: Github Website.
+               * IDE Used : Virtual Studio Code.
+               * Web browser: Mozilla Firefox.
+               * Languages Used: C Language, Makefile.
+               * Compiler : AVR Compiler.
+               * Simulation Tool Used : SimulIDE.
+               * Documentation Tool : Doxygen
+               * Operating System : Linux OS, Windows OS.
+               
    
 # Highlevel Requirements
 |HLR_ID|Description|Status|
@@ -43,7 +58,20 @@
 
 
 # SWOT Analysis
-![](https://github.com/hpsanjana20/M2_Door_Sensor/blob/main/6_Output/swot_analysis.png)
+![](https://github.com/hpsanjana20/M2_Door_Sensor/blob/main/6_Output/swot_analysis.png)|
+
+# Simulation Output
+
+|Switch ON; Person near sensor|
+|:--:|
+|![](https://github.com/hpsanjana20/M2_Door_Sensor/blob/main/6_Output/output_1.png)|
+
+|Switch OFF; Person not near sensor|
+|:--:|
+|![](https://github.com/hpsanjana20/M2_Door_Sensor/blob/main/6_Output/output_2.png)|
+
+
+
 
 ## Implementation
     Instructions to RUN program :
@@ -53,4 +81,4 @@
         3. Run "make all" command in your terminal for execution of program.
         
 ## Author
-
+- [@hpsanjana20](https://github.com/hpsanjana20)
