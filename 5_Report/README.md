@@ -58,7 +58,7 @@ Door sensor for automated lighting fixtures manage is extensively being advanced
 
 
 # SWOT Analysis
-![](https://github.com/hpsanjana20/M2_Door_Sensor/blob/main/6_Output/swot_analysis.png)|
+![](https://github.com/hpsanjana20/M2_Door_Sensor/blob/main/6_Output/swot_analysis.png)
 
 # Simulation Output
 
@@ -69,9 +69,6 @@ Door sensor for automated lighting fixtures manage is extensively being advanced
 |Switch OFF; Person not near sensor|
 |:--:|
 |![](https://github.com/hpsanjana20/M2_Door_Sensor/blob/main/6_Output/output_2.png)|
-
-
-
 
 ## Implementation
     Instructions to RUN program :
